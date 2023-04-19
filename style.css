@@ -1,0 +1,22 @@
+body{
+    margin-top: 50px;
+}
+
+/* JUMBOTRON */
+.jumbotron{
+    background-color: #e2edff;
+    padding-top: 2rem;
+}
+
+section img{
+    width: 200px;
+}
+
+section#projects{
+    background-color: #e2edff;
+}
+
+section{
+    padding-top: 70px;
+}
+/* END JUMBOTRON */
